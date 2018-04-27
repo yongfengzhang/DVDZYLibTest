@@ -1,0 +1,6 @@
+framework module DVDZYLibTest {
+  umbrella header "DVDZYLibTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

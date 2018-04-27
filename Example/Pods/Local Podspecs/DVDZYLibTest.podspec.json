@@ -1,0 +1,22 @@
+{
+  "name": "DVDZYLibTest",
+  "version": "0.1.0",
+  "summary": "A short description of DVDZYLibTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangyongfeng/DVDZYLibTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangyongfeng": "zhangyongfeng@davdian.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangyongfeng/DVDZYLibTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DVDZYLibTest/Classes/**/*"
+}
